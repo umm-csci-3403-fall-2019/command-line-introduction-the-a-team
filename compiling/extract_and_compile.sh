@@ -3,7 +3,7 @@
 test(){
 echo "5"
 }
-test
-pwd
+tar -x "NthPrime.tgz"
+
 
 
