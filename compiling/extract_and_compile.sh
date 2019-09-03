@@ -1,5 +1,9 @@
 #!/bin/bash
 
+test(){
+echo "5"
+}
+test
 pwd
-echo "does this work"
+
 
